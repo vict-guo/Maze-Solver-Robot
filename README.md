@@ -1,2 +1,6 @@
 # Maze-Solver-Robot
-An arduino program to help a robot use infrared sensors to solve a maze.
+Code to program an arduino robot to solve any maze.
+
+The robot maneuvers around using four infrared sensors and solves the maze using a depth first search algorithm. 
+
+Coded in Arduino
